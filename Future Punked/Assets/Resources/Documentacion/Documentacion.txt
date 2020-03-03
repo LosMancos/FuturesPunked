@@ -1,0 +1,2 @@
+Trello para la organizacion de las tareas:
+    https://github.com/LosMancos/FuturesPunked/projects/1?add_cards_query=is%3Aopen
